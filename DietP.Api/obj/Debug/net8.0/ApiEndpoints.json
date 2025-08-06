@@ -1,0 +1,555 @@
+[
+  {
+    "ContainingType": "DietP.Service.Controllers.CalendarController",
+    "Method": "CreateCalendarEvent",
+    "RelativePath": "api/Calendar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "calendarEvent",
+        "Type": "DietP.Core.Entities.Calendar",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DietP.Core.Entities.Calendar",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DietP.Service.Controllers.CalendarController",
+    "Method": "GetCalendarItemsByMonth",
+    "RelativePath": "api/Calendar/month",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[DietP.Core.Entities.Calendar, DietP.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DietP.Service.Controllers.CalendarController",
+    "Method": "DeleteEvents",
+    "RelativePath": "api/Calendar/year",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DietP.Api.Controllers.FoodsItemController",
+    "Method": "AddFoodItem",
+    "RelativePath": "api/FoodsItem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "foodsItem",
+        "Type": "DietP.Core.Entities.FoodsItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DietP.Core.Entities.FoodsItem",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DietP.Api.Controllers.FoodsItemController",
+    "Method": "UpdateFoodItem",
+    "RelativePath": "api/FoodsItem",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "category",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "cal",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "newName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "newCategory",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "newCal",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DietP.Core.Entities.FoodsItem",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DietP.Api.Controllers.FoodsItemController",
+    "Method": "DeleteFoodItem",
+    "RelativePath": "api/FoodsItem/{name}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DietP.Core.Entities.FoodsItem",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DietP.Api.Controllers.FoodsItemController",
+    "Method": "GetByCategoryAndCalories",
+    "RelativePath": "api/FoodsItem/category/{category}/calories/{calories}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "category",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "calories",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[DietP.Core.Entities.FoodsItem, DietP.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DietP.Api.Controllers.SportController",
+    "Method": "AddSport",
+    "RelativePath": "api/Sport",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sport",
+        "Type": "DietP.Core.Entities.Sport",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DietP.Core.Entities.Sport",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DietP.Api.Controllers.SportController",
+    "Method": "UpdateSport",
+    "RelativePath": "api/Sport",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "type",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "loseCalPerHour",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "newName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "newDescription",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "newType",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "newLoseCalPerHour",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DietP.Core.Entities.Sport",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DietP.Api.Controllers.SportController",
+    "Method": "DeleteSport",
+    "RelativePath": "api/Sport/{name}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DietP.Core.Entities.Sport",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DietP.Api.Controllers.SportController",
+    "Method": "GetByLoseCal",
+    "RelativePath": "api/Sport/losecal/{cal}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cal",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[DietP.Core.Entities.Sport, DietP.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DietP.API.Controllers.UserController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[DietP.Core.Entities.User, DietP.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DietP.API.Controllers.UserController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/User/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DietP.Core.Entities.User",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DietP.API.Controllers.UserController",
+    "Method": "Login",
+    "RelativePath": "api/User/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "body",
+        "Type": "System.Collections.Generic.Dictionary\u00602[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DietP.Core.Entities.User",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DietP.API.Controllers.UserController",
+    "Method": "Register",
+    "RelativePath": "api/User/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "DietP.Core.Entities.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DietP.Core.Entities.User",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DietP.API.Controllers.UserController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/User/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "firstName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "lastName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "calPerDay",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "bmi",
+        "Type": "System.Single",
+        "IsRequired": false
+      },
+      {
+        "Name": "weight",
+        "Type": "System.Single",
+        "IsRequired": false
+      },
+      {
+        "Name": "wishWeight",
+        "Type": "System.Single",
+        "IsRequired": false
+      },
+      {
+        "Name": "height",
+        "Type": "System.Single",
+        "IsRequired": false
+      },
+      {
+        "Name": "daysForDiet",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "newFirstName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "newLastName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "newEmail",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "newPassword",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "newCalPerDay",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "newBmi",
+        "Type": "System.Single",
+        "IsRequired": false
+      },
+      {
+        "Name": "newWeight",
+        "Type": "System.Single",
+        "IsRequired": false
+      },
+      {
+        "Name": "newWishWeight",
+        "Type": "System.Single",
+        "IsRequired": false
+      },
+      {
+        "Name": "newHeight",
+        "Type": "System.Single",
+        "IsRequired": false
+      },
+      {
+        "Name": "newDaysForDiet",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DietP.Core.Entities.User",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

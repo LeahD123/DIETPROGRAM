@@ -1,0 +1,728 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C02C99-CB2F-42C9-A594-8F7981BA2B57}|DietP.Api\\DietP.Api.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C02C99-CB2F-42C9-A594-8F7981BA2B57}|DietP.Api\\DietP.Api.csproj|solutionrelative:dietp.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C02C99-CB2F-42C9-A594-8F7981BA2B57}|DietP.Api\\DietP.Api.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5C02C99-CB2F-42C9-A594-8F7981BA2B57}|DietP.Api\\DietP.Api.csproj|solutionrelative:dietp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C02C99-CB2F-42C9-A594-8F7981BA2B57}|DietP.Api\\DietP.Api.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.api\\controllers\\calendarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C02C99-CB2F-42C9-A594-8F7981BA2B57}|DietP.Api\\DietP.Api.csproj|solutionrelative:dietp.api\\controllers\\calendarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C02C99-CB2F-42C9-A594-8F7981BA2B57}|DietP.Api\\DietP.Api.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C02C99-CB2F-42C9-A594-8F7981BA2B57}|DietP.Api\\DietP.Api.csproj|solutionrelative:dietp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C02C99-CB2F-42C9-A594-8F7981BA2B57}|DietP.Api\\DietP.Api.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.api\\controllers\\sportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C02C99-CB2F-42C9-A594-8F7981BA2B57}|DietP.Api\\DietP.Api.csproj|solutionrelative:dietp.api\\controllers\\sportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC5F3E9-60B5-4B17-BC83-1935825F91BB}|DietP.Infrastructure\\DietP.Infrastructure.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.infrastructure\\datarepository\\calendarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC5F3E9-60B5-4B17-BC83-1935825F91BB}|DietP.Infrastructure\\DietP.Infrastructure.csproj|solutionrelative:dietp.infrastructure\\datarepository\\calendarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.core\\resources\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|solutionrelative:dietp.core\\resources\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.core\\entities\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|solutionrelative:dietp.core\\entities\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.core\\entities\\foodsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|solutionrelative:dietp.core\\entities\\foodsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC5F3E9-60B5-4B17-BC83-1935825F91BB}|DietP.Infrastructure\\DietP.Infrastructure.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.infrastructure\\dietcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC5F3E9-60B5-4B17-BC83-1935825F91BB}|DietP.Infrastructure\\DietP.Infrastructure.csproj|solutionrelative:dietp.infrastructure\\dietcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBAA3EF-320F-4FC0-B49F-6ABB55504BD9}|DietP.Service\\DietP.Service.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.service\\services\\calendarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBAA3EF-320F-4FC0-B49F-6ABB55504BD9}|DietP.Service\\DietP.Service.csproj|solutionrelative:dietp.service\\services\\calendarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C02C99-CB2F-42C9-A594-8F7981BA2B57}|DietP.Api\\DietP.Api.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.api\\controllers\\foodsitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C02C99-CB2F-42C9-A594-8F7981BA2B57}|DietP.Api\\DietP.Api.csproj|solutionrelative:dietp.api\\controllers\\foodsitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.core\\services\\icalendarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|solutionrelative:dietp.core\\services\\icalendarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.core\\repositories\\icalendarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|solutionrelative:dietp.core\\repositories\\icalendarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC5F3E9-60B5-4B17-BC83-1935825F91BB}|DietP.Infrastructure\\DietP.Infrastructure.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.infrastructure\\datarepository\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC5F3E9-60B5-4B17-BC83-1935825F91BB}|DietP.Infrastructure\\DietP.Infrastructure.csproj|solutionrelative:dietp.infrastructure\\datarepository\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.core\\repositories\\ifoodsitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|solutionrelative:dietp.core\\repositories\\ifoodsitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBAA3EF-320F-4FC0-B49F-6ABB55504BD9}|DietP.Service\\DietP.Service.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.service\\services\\foodsitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBAA3EF-320F-4FC0-B49F-6ABB55504BD9}|DietP.Service\\DietP.Service.csproj|solutionrelative:dietp.service\\services\\foodsitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBAA3EF-320F-4FC0-B49F-6ABB55504BD9}|DietP.Service\\DietP.Service.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.service\\services\\sportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBAA3EF-320F-4FC0-B49F-6ABB55504BD9}|DietP.Service\\DietP.Service.csproj|solutionrelative:dietp.service\\services\\sportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.core\\services\\ifoodsitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|solutionrelative:dietp.core\\services\\ifoodsitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.core\\entities\\sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|solutionrelative:dietp.core\\entities\\sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|solutionrelative:dietp.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.core\\repositories\\isportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|solutionrelative:dietp.core\\repositories\\isportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBAA3EF-320F-4FC0-B49F-6ABB55504BD9}|DietP.Service\\DietP.Service.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.service\\dietp.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4EBAA3EF-320F-4FC0-B49F-6ABB55504BD9}|DietP.Service\\DietP.Service.csproj|solutionrelative:dietp.service\\dietp.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC5F3E9-60B5-4B17-BC83-1935825F91BB}|DietP.Infrastructure\\DietP.Infrastructure.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.infrastructure\\datarepository\\foodsitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC5F3E9-60B5-4B17-BC83-1935825F91BB}|DietP.Infrastructure\\DietP.Infrastructure.csproj|solutionrelative:dietp.infrastructure\\datarepository\\foodsitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC5F3E9-60B5-4B17-BC83-1935825F91BB}|DietP.Infrastructure\\DietP.Infrastructure.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.infrastructure\\datarepository\\sportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC5F3E9-60B5-4B17-BC83-1935825F91BB}|DietP.Infrastructure\\DietP.Infrastructure.csproj|solutionrelative:dietp.infrastructure\\datarepository\\sportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.core\\services\\isportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|solutionrelative:dietp.core\\services\\isportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.core\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|solutionrelative:dietp.core\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.core\\resources\\foodsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|solutionrelative:dietp.core\\resources\\foodsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.core\\resources\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|solutionrelative:dietp.core\\resources\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.core\\dietp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|solutionrelative:dietp.core\\dietp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C02C99-CB2F-42C9-A594-8F7981BA2B57}|DietP.Api\\DietP.Api.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.api\\dietp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C5C02C99-CB2F-42C9-A594-8F7981BA2B57}|DietP.Api\\DietP.Api.csproj|solutionrelative:dietp.api\\dietp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C02C99-CB2F-42C9-A594-8F7981BA2B57}|DietP.Api\\DietP.Api.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5C02C99-CB2F-42C9-A594-8F7981BA2B57}|DietP.Api\\DietP.Api.csproj|solutionrelative:dietp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBAA3EF-320F-4FC0-B49F-6ABB55504BD9}|DietP.Service\\DietP.Service.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBAA3EF-320F-4FC0-B49F-6ABB55504BD9}|DietP.Service\\DietP.Service.csproj|solutionrelative:dietp.service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.core\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|solutionrelative:dietp.core\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.core\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|solutionrelative:dietp.core\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC5F3E9-60B5-4B17-BC83-1935825F91BB}|DietP.Infrastructure\\DietP.Infrastructure.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.infrastructure\\datarepository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC5F3E9-60B5-4B17-BC83-1935825F91BB}|DietP.Infrastructure\\DietP.Infrastructure.csproj|solutionrelative:dietp.infrastructure\\datarepository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC5F3E9-60B5-4B17-BC83-1935825F91BB}|DietP.Infrastructure\\DietP.Infrastructure.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.infrastructure\\migrations\\20250602211651_migrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC5F3E9-60B5-4B17-BC83-1935825F91BB}|DietP.Infrastructure\\DietP.Infrastructure.csproj|solutionrelative:dietp.infrastructure\\migrations\\20250602211651_migrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC5F3E9-60B5-4B17-BC83-1935825F91BB}|DietP.Infrastructure\\DietP.Infrastructure.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.infrastructure\\migrations\\dietcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC5F3E9-60B5-4B17-BC83-1935825F91BB}|DietP.Infrastructure\\DietP.Infrastructure.csproj|solutionrelative:dietp.infrastructure\\migrations\\dietcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C02C99-CB2F-42C9-A594-8F7981BA2B57}|DietP.Api\\DietP.Api.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.api\\dietp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5C02C99-CB2F-42C9-A594-8F7981BA2B57}|DietP.Api\\DietP.Api.csproj|solutionrelative:dietp.api\\dietp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C02C99-CB2F-42C9-A594-8F7981BA2B57}|DietP.Api\\DietP.Api.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.api\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C02C99-CB2F-42C9-A594-8F7981BA2B57}|DietP.Api\\DietP.Api.csproj|solutionrelative:dietp.api\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C02C99-CB2F-42C9-A594-8F7981BA2B57}|DietP.Api\\DietP.Api.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.api\\dietp.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C5C02C99-CB2F-42C9-A594-8F7981BA2B57}|DietP.Api\\DietP.Api.csproj|solutionrelative:dietp.api\\dietp.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.core\\resources\\sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1DEA4E-ADB2-4C09-988C-186BFBA46012}|DietP.Core\\DietP.Core.csproj|solutionrelative:dietp.core\\resources\\sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC5F3E9-60B5-4B17-BC83-1935825F91BB}|DietP.Infrastructure\\DietP.Infrastructure.csproj|c:\\users\\liada\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\dietprogram\\dietp.infrastructure\\dietp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3AC5F3E9-60B5-4B17-BC83-1935825F91BB}|DietP.Infrastructure\\DietP.Infrastructure.csproj|solutionrelative:dietp.infrastructure\\dietp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CalendarService.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Service\\Services\\CalendarService.cs",
+              "RelativeDocumentMoniker": "DietP.Service\\Services\\CalendarService.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Service\\Services\\CalendarService.cs",
+              "RelativeToolTip": "DietP.Service\\Services\\CalendarService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T22:05:16.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FoodsItemController.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Api\\Controllers\\FoodsItemController.cs",
+              "RelativeDocumentMoniker": "DietP.Api\\Controllers\\FoodsItemController.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Api\\Controllers\\FoodsItemController.cs",
+              "RelativeToolTip": "DietP.Api\\Controllers\\FoodsItemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:50:40.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Api\\Program.cs",
+              "RelativeDocumentMoniker": "DietP.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Api\\Program.cs",
+              "RelativeToolTip": "DietP.Api\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwEAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:31:44.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DietContex.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Infrastructure\\DietContex.cs",
+              "RelativeDocumentMoniker": "DietP.Infrastructure\\DietContex.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Infrastructure\\DietContex.cs",
+              "RelativeToolTip": "DietP.Infrastructure\\DietContex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:13:08.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FoodsItem.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Entities\\FoodsItem.cs",
+              "RelativeDocumentMoniker": "DietP.Core\\Entities\\FoodsItem.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Entities\\FoodsItem.cs",
+              "RelativeToolTip": "DietP.Core\\Entities\\FoodsItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:53:02.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Calendar.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Entities\\Calendar.cs",
+              "RelativeDocumentMoniker": "DietP.Core\\Entities\\Calendar.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Entities\\Calendar.cs",
+              "RelativeToolTip": "DietP.Core\\Entities\\Calendar.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T00:10:56.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalendarController.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Api\\Controllers\\CalendarController.cs",
+              "RelativeDocumentMoniker": "DietP.Api\\Controllers\\CalendarController.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Api\\Controllers\\CalendarController.cs",
+              "RelativeToolTip": "DietP.Api\\Controllers\\CalendarController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:04:15.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "DietP.Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "DietP.Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:50:13.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SportController.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Api\\Controllers\\SportController.cs",
+              "RelativeDocumentMoniker": "DietP.Api\\Controllers\\SportController.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Api\\Controllers\\SportController.cs",
+              "RelativeToolTip": "DietP.Api\\Controllers\\SportController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:51:05.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "DietP.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Api\\appsettings.json",
+              "RelativeToolTip": "DietP.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T22:15:56.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalendarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Infrastructure\\DataRepository\\CalendarRepository.cs",
+              "RelativeDocumentMoniker": "DietP.Infrastructure\\DataRepository\\CalendarRepository.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Infrastructure\\DataRepository\\CalendarRepository.cs",
+              "RelativeToolTip": "DietP.Infrastructure\\DataRepository\\CalendarRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T22:10:29.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICalendarService.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Services\\ICalendarService.cs",
+              "RelativeDocumentMoniker": "DietP.Core\\Services\\ICalendarService.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Services\\ICalendarService.cs",
+              "RelativeToolTip": "DietP.Core\\Services\\ICalendarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T21:26:32.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calendar.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Resources\\Calendar.cs",
+              "RelativeDocumentMoniker": "DietP.Core\\Resources\\Calendar.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Resources\\Calendar.cs",
+              "RelativeToolTip": "DietP.Core\\Resources\\Calendar.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T00:12:46.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICalendarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Repositories\\ICalendarRepository.cs",
+              "RelativeDocumentMoniker": "DietP.Core\\Repositories\\ICalendarRepository.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Repositories\\ICalendarRepository.cs",
+              "RelativeToolTip": "DietP.Core\\Repositories\\ICalendarRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T21:22:03.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Infrastructure\\DataRepository\\DataRepository.cs",
+              "RelativeDocumentMoniker": "DietP.Infrastructure\\DataRepository\\DataRepository.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Infrastructure\\DataRepository\\DataRepository.cs",
+              "RelativeToolTip": "DietP.Infrastructure\\DataRepository\\DataRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T23:10:55.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IFoodsItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Repositories\\IFoodsItemRepository.cs",
+              "RelativeDocumentMoniker": "DietP.Core\\Repositories\\IFoodsItemRepository.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Repositories\\IFoodsItemRepository.cs",
+              "RelativeToolTip": "DietP.Core\\Repositories\\IFoodsItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:15:58.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FoodsItemService.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Service\\Services\\FoodsItemService.cs",
+              "RelativeDocumentMoniker": "DietP.Service\\Services\\FoodsItemService.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Service\\Services\\FoodsItemService.cs",
+              "RelativeToolTip": "DietP.Service\\Services\\FoodsItemService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:36:32.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SportService.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Service\\Services\\SportService.cs",
+              "RelativeDocumentMoniker": "DietP.Service\\Services\\SportService.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Service\\Services\\SportService.cs",
+              "RelativeToolTip": "DietP.Service\\Services\\SportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:36:50.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IFoodsItemService.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Services\\IFoodsItemService.cs",
+              "RelativeDocumentMoniker": "DietP.Core\\Services\\IFoodsItemService.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Services\\IFoodsItemService.cs",
+              "RelativeToolTip": "DietP.Core\\Services\\IFoodsItemService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:22:42.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Sport.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Entities\\Sport.cs",
+              "RelativeDocumentMoniker": "DietP.Core\\Entities\\Sport.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Entities\\Sport.cs",
+              "RelativeToolTip": "DietP.Core\\Entities\\Sport.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:02:57.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DietP.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Entities\\User.cs",
+              "RelativeToolTip": "DietP.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:56:11.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ISportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Repositories\\ISportRepository.cs",
+              "RelativeDocumentMoniker": "DietP.Core\\Repositories\\ISportRepository.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Repositories\\ISportRepository.cs",
+              "RelativeToolTip": "DietP.Core\\Repositories\\ISportRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:15:27.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DietP.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Service\\DietP.Service.csproj",
+              "RelativeDocumentMoniker": "DietP.Service\\DietP.Service.csproj",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Service\\DietP.Service.csproj",
+              "RelativeToolTip": "DietP.Service\\DietP.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T19:29:58.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FoodsItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Infrastructure\\DataRepository\\FoodsItemRepository.cs",
+              "RelativeDocumentMoniker": "DietP.Infrastructure\\DataRepository\\FoodsItemRepository.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Infrastructure\\DataRepository\\FoodsItemRepository.cs",
+              "RelativeToolTip": "DietP.Infrastructure\\DataRepository\\FoodsItemRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:02:24.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ISportService.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Services\\ISportService.cs",
+              "RelativeDocumentMoniker": "DietP.Core\\Services\\ISportService.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Services\\ISportService.cs",
+              "RelativeToolTip": "DietP.Core\\Services\\ISportService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA4AAACYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:21:51.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Infrastructure\\DataRepository\\SportRepository.cs",
+              "RelativeDocumentMoniker": "DietP.Infrastructure\\DataRepository\\SportRepository.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Infrastructure\\DataRepository\\SportRepository.cs",
+              "RelativeToolTip": "DietP.Infrastructure\\DataRepository\\SportRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:06:46.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "DietP.Core\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "DietP.Core\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:47:15.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FoodsItem.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Resources\\FoodsItem.cs",
+              "RelativeDocumentMoniker": "DietP.Core\\Resources\\FoodsItem.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Resources\\FoodsItem.cs",
+              "RelativeToolTip": "DietP.Core\\Resources\\FoodsItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:47:15.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Resources\\User.cs",
+              "RelativeDocumentMoniker": "DietP.Core\\Resources\\User.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Resources\\User.cs",
+              "RelativeToolTip": "DietP.Core\\Resources\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:47:14.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DietP.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DietP.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwBsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-13T11:12:46.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DietP.Api.http",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Api\\DietP.Api.http",
+              "RelativeDocumentMoniker": "DietP.Api\\DietP.Api.http",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Api\\DietP.Api.http",
+              "RelativeToolTip": "DietP.Api\\DietP.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-02T21:58:52.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DietP.Core\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "DietP.Core\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:14:01.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "DietP.Core\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Services\\IUserService.cs",
+              "RelativeToolTip": "DietP.Core\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:21:00.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DietP.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\DietP.Core.csproj",
+              "RelativeDocumentMoniker": "DietP.Core\\DietP.Core.csproj",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\DietP.Core.csproj",
+              "RelativeToolTip": "DietP.Core\\DietP.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T21:46:19.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Infrastructure\\DataRepository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DietP.Infrastructure\\DataRepository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Infrastructure\\DataRepository\\UserRepository.cs",
+              "RelativeToolTip": "DietP.Infrastructure\\DataRepository\\UserRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:38:56.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Service\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "DietP.Service\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Service\\Services\\UserService.cs",
+              "RelativeToolTip": "DietP.Service\\Services\\UserService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T20:18:32.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250602211651_Migrations.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Infrastructure\\Migrations\\20250602211651_Migrations.cs",
+              "RelativeDocumentMoniker": "DietP.Infrastructure\\Migrations\\20250602211651_Migrations.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Infrastructure\\Migrations\\20250602211651_Migrations.cs",
+              "RelativeToolTip": "DietP.Infrastructure\\Migrations\\20250602211651_Migrations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T21:17:05.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DietContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Infrastructure\\Migrations\\DietContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DietP.Infrastructure\\Migrations\\DietContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Infrastructure\\Migrations\\DietContextModelSnapshot.cs",
+              "RelativeToolTip": "DietP.Infrastructure\\Migrations\\DietContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T21:17:07.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DietP.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Api\\DietP.Api.csproj",
+              "RelativeDocumentMoniker": "DietP.Api\\DietP.Api.csproj",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Api\\DietP.Api.csproj",
+              "RelativeToolTip": "DietP.Api\\DietP.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-16T13:20:44.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Api\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "DietP.Api\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Api\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "DietP.Api\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:57:25.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DietP.Api",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Api\\DietP.Api.csproj",
+              "RelativeDocumentMoniker": "DietP.Api\\DietP.Api.csproj",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Api\\DietP.Api.csproj",
+              "RelativeToolTip": "DietP.Api\\DietP.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T22:11:26.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Sport.cs",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Resources\\Sport.cs",
+              "RelativeDocumentMoniker": "DietP.Core\\Resources\\Sport.cs",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Core\\Resources\\Sport.cs",
+              "RelativeToolTip": "DietP.Core\\Resources\\Sport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:47:15.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DietP.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Infrastructure\\DietP.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "DietP.Infrastructure\\DietP.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\liada\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D0\u05D4 \u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\DietProgram\\DietP.Infrastructure\\DietP.Infrastructure.csproj",
+              "RelativeToolTip": "DietP.Infrastructure\\DietP.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T19:29:57.824Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
