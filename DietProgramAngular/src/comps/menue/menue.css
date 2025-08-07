@@ -1,0 +1,46 @@
+select {
+    grid-area: header;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 1em;
+    /* גודל גופן גדול יותר */
+    color: #89c25d;
+    /* צבע טקסט כהה */
+    background-color: #f8f9fa;
+    /* צבע רקע בהיר */
+    padding: 20px;
+    /* רווח פנימי */
+    border-bottom: 2px solid #ccc;
+    /* קו תחתון אפור */
+    text-transform: uppercase;
+    /* הפיכת טקסט לאותיות גדולות */
+    letter-spacing: 1px;
+    /* רווח בין אותיות */
+        width: 100%;
+    /* הגדר את הרוחב ל-100% של העמודה */
+    text-align: center;
+    margin: 30px 0;
+    /* רווח קטן בין ה-selects */
+}
+
+header {
+    grid-area: header;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 1em;
+    /* גודל גופן גדול יותר */
+    color: #2e6306;
+    /* צבע טקסט כהה */
+    background-color: #f8f9fa;
+    /* צבע רקע בהיר */
+    padding: 20px;
+    /* רווח פנימי */
+    border-bottom: 2px solid #ccc;
+    /* קו תחתון אפור */
+    text-transform: uppercase;
+    /* הפיכת טקסט לאותיות גדולות */
+    letter-spacing: 1px;
+    /* רווח בין אותיות */
+}
+
+

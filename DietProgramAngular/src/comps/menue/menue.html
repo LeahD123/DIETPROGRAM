@@ -1,0 +1,47 @@
+<form class="form">
+    <div class="grid">
+        <div class="column">
+            <header>ארוחת בוקר</header>
+            <select name="breakfast-carb" id="breakfast-carb">
+                <option *ngFor="let crab of allCrabs1" [value]="crab.id">{{crab.name}}</option>
+            </select>
+            <br>
+            <select name="breakfast-fruit" id="breakfast-fruit">
+                <option *ngFor="let fruit of allFruits1" [value]="fruit.id">{{ fruit.name }}</option>
+            </select>
+            <br>
+            <select name="breakfast-protein" id="breakfast-protein">
+                <option *ngFor="let pro of allProteins1" [value]="pro.id">{{pro.name}}</option>
+            </select>
+        </div>
+        <div class="column">
+            <header>ארוחת צהריים:</header>
+            <select name="lunch-carb" id="lunch-carb">
+                <option *ngFor="let crab of allCrabs2" [value]="crab.id">{{crab.name}}</option>
+            </select>
+            <br>
+            <select name="lunch-fruit" id="lunch-fruit">
+                <option *ngFor="let fruit of allFruits2" [value]="fruit.id">{{ fruit.name }}</option>
+            </select>
+            <br>
+            <select name="lunch-protein" id="lunch-protein">
+                <option *ngFor="let pro of allProteins2" [value]="pro.id">{{pro.name}}</option>
+            </select>
+        </div>
+        <div class="column">
+            <header>ארוחת ערב:</header>
+            <select name="dinner-carb" id="dinner-carb">
+                <option *ngFor="let crab of allCrabs3" [value]="crab.id">{{crab.name}}</option>
+            </select>
+            <br>
+            <select name="dinner-fruit" id="dinner-fruit">
+                <option *ngFor="let fruit of allFruits3" [value]="fruit.id">{{ fruit.name }}</option>
+            </select>
+            <br>
+            <select name="dinner-protein" id="dinner-protein">
+                <option *ngFor="let pro of allProteins3" [value]="pro.id">{{pro.name}}</option>
+            </select>
+        </div>
+    </div>
+    <input type="submit" value="Submit">
+</form>
