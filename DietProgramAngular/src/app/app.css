@@ -1,0 +1,211 @@
+body {
+    margin: 0;
+}
+.nav .logo{
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 2% 16px;
+    text-decoration: none;
+    height: 50%;
+    width: 30px;
+}
+
+.nav {
+    overflow: hidden;
+    background-color: #333;
+
+}
+
+.nav a {
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 2% 16px;
+    text-decoration: none;
+}
+
+.nav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.bigGrid {
+     margin-left: 20px; /* משנה את הערך לפי הצורך */
+    margin-right: 100px; /* משנה את הערך לפי הצורך */
+    flex-direction: row-reverse;
+    display: grid;
+    /* הפוך את הטופס לגריד */
+    grid-template-columns: 30% 70%;
+    /* גובה קבוע לכל העמודות */
+    gap: 200px 40px;
+    /* הגדל את הרווח בין השורות והעמודות */
+    text-align: center;
+}
+
+form {
+    float: right;
+    /* הטופס יתפוס את המקום בצד ימין */
+    display: flex;
+    flex-direction: column;
+    /* סדר את האלמנטים בטופס בעמודה */
+    align-items: right;
+    /* מיקום הטופס לימין */
+    margin: 20px;
+}
+
+.image {
+    display: block;
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Moab_Mountains_sunrise.jpg/1200px-Moab_Mountains_sunrise.jpg) no-repeat;
+    float: left;
+    object-fit: cover;
+    -webkit-mask-image: linear-gradient(black, transparent);
+    mask-image: linear-gradient(black, transparent);
+    width: 100%;
+    height: 100%;
+     line-height: 1.5; /* הגדלת הרווח בין השורות */
+    /* התמונה תתפוס את המקום בצד שמאל */
+    justify-content: left;
+    /* מיקום התמונה לשמאל */
+    align-items: center;
+    /* מרכז את התמונה אנכית */
+}
+
+.image a {
+     /* writing-mode: vertical-rl; /* כיוון טקסט מימין לשמאל */
+            /* text-orientation: upright; */ 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 700%;
+    color: white;
+    margin-bottom: 100%;
+
+}
+.image b{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1000%;
+    padding: 20px;
+    color: white;
+}
+select {
+    grid-area: header;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 1em;
+    /* גודל גופן גדול יותר */
+    color: #89c25d;
+    /* צבע טקסט כהה */
+    background-color: #f8f9fa;
+    /* צבע רקע בהיר */
+    padding: 20px;
+    /* רווח פנימי */
+    border-bottom: 2px solid #ccc;
+    /* קו תחתון אפור */
+    text-transform: uppercase;
+    /* הפיכת טקסט לאותיות גדולות */
+    letter-spacing: 1px;
+    /* רווח בין אותיות */
+}
+
+.header {
+    grid-area: header;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 1em;
+    /* גודל גופן גדול יותר */
+    color: #89c25d;
+    /* צבע טקסט כהה */
+    background-color: #f8f9fa;
+    /* צבע רקע בהיר */
+    padding: 20px;
+    /* רווח פנימי */
+    border-bottom: 2px solid #ccc;
+    /* קו תחתון אפור */
+    text-transform: uppercase;
+    /* הפיכת טקסט לאותיות גדולות */
+    letter-spacing: 1px;
+    /* רווח בין אותיות */
+}
+
+header {
+    grid-area: header;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 1em;
+    /* גודל גופן גדול יותר */
+    color: #2e6306;
+    /* צבע טקסט כהה */
+    background-color: #f8f9fa;
+    /* צבע רקע בהיר */
+    padding: 20px;
+    /* רווח פנימי */
+    border-bottom: 2px solid #ccc;
+    /* קו תחתון אפור */
+    text-transform: uppercase;
+    /* הפיכת טקסט לאותיות גדולות */
+    letter-spacing: 1px;
+    /* רווח בין אותיות */
+}
+.router-outlet {
+    display: flex;
+    justify-content: center; /* מרכז אופקית */
+    align-items: center; /* מרכז אנכית */
+    flex-grow: 1; /* מאפשר ל-router-outlet למלא את החלל */
+}
+.image br{
+    width: 30px;
+    height: 100px;
+    color: #000;
+}
+.grid {
+ direction: rtl; /* הגדרת כיוון מימין לשמאל */
+    margin-top: 5%;
+    display: grid;
+    /* הפוך את הטופס לגריד */
+    grid-template-columns: repeat(4, 1fr);
+    /* שלוש עמודות באותו רוחב */
+    grid-template-rows: 200px;
+    /* גובה קבוע לכל העמודות */
+    gap: 200px 40px;
+    /* הגדל את הרווח בין השורות והעמודות */
+    text-align: center;
+}
+
+select {
+    width: 100%;
+    /* הגדר את הרוחב ל-100% של העמודה */
+    text-align: center;
+    margin: 30px 0;
+    /* רווח קטן בין ה-selects */
+}
+
+input[type="submit"] {
+    background-color: #4CAF50;
+    /* צבע רקע */
+    color: white;
+    /* צבע טקסט */
+    border: none;
+    /* ללא גבול */
+    padding: 15px 32px;
+    /* רווח פנימי */
+    text-align: center;
+    /* מרכז את הטקסט */
+    text-decoration: none;
+    /* מסיר קו תחתון */
+    display: inline-block;
+    /* מאפשר להגדיר גובה ורוחב */
+    font-size: 16px;
+    /* גודל גופן */
+    margin-top: 30%;
+    cursor: pointer;
+    /* מצביע על כך שניתן ללחוץ */
+    border-radius: 4px;
+    /* פינות מעוגלות */
+    transition: background-color 0.3s;
+    /* אנימציה לשינוי צבע */
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+    /* צבע רקע בעת ריחוף */
+}
